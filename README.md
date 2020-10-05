@@ -6,6 +6,8 @@ Panos Oikonomou, Roberto Salatino, Saeed Tavazoie
 doi: 10.1073/pnas.2002650117
 PNAS, October 2020
 
+Demultiplex internal indexes, trim universal adapters, align to yeast ORF 5' and 3' ends, count.
+
 - command: python run_IMVD_alignment_yORF.py
 - requirements: python 2.7, cutadapt v1.8.3, bowtie2 v2.2.6, samtools v1.2, bedtools v2.17.0
 - sequencing files *.fastq.gz should be placed in the folder data/ in the same directory as the script.
