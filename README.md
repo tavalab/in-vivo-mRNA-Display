@@ -1,7 +1,7 @@
 # in-vivo-mRNA-Display
 scripts for processing of in vivo mRNA display sequencing data
 
-"In vivo mRNA display anables large-scale proteomics by next generation sequencing"
+"In vivo mRNA display enables large-scale proteomics by next generation sequencing"
 Panos Oikonomou, Roberto Salatino, Saeed Tavazoie
 doi: 10.1073/pnas.2002650117
 PNAS, October 2020
